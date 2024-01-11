@@ -6,7 +6,7 @@ Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tuju
 * Python3 (Programming Language)
 * Streamlit (Python-Framework)
 * Jupyter Notebook
-* VS Code (IDE)
+* Google Colab
 
 ## For EDA
 * NumPy
