@@ -16,7 +16,7 @@ Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tuju
 
 ## For Model-training
 * sklearn.model_selection - train_test_split
-* sklearn.svm - KNN
+* KNeighbors - KNN
 
 ## Deployment
 * GitHub
